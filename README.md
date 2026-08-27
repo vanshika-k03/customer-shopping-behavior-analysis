@@ -156,7 +156,7 @@ The final analysis was presented through an interactive Power BI dashboard.
 
 ### Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
+![Customer Shopping Behavior Dashboard](image/dashboard.png)
 
 ---
 
